@@ -13,8 +13,8 @@ humandate: "April 14, 2025"    # human-readable dates for the workshop (e.g., "F
 humantime: "8:30AM - 4:00PM EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-04-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-10-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Sheldon McKay, Instructor2"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Haizi Zheng","Ayush Saxena","Mohammed Hussain","Zebulun Arendsee","Huan Jin","Marina Lehmkuhl"] 
+instructor: ["Sheldon McKay, Ayush Saxena"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: [] 
 email: ["sheldon.mckay@regeneron.com"]  
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -329,7 +329,7 @@ change the value of `carpentry` to `incubator`.
   </tr>
   <tr> 
     <td>09:00</td>
-    <td>Python Part 1</td>
+    <td>Introduction to the Command Line for Genomics: Sheldon McKay</td>
   </tr>
   <tr>
     <td>12:00</td>
@@ -337,7 +337,7 @@ change the value of `carpentry` to `incubator`.
   </tr>
   <tr>
     <td>12:30</td>
-    <td>Python Part 2</td>
+    <td>Data Wrangling and Processing for Genomics: Ayush Saxena</td>
   </tr>
   <tr> 
     <td>14:45</td>  
